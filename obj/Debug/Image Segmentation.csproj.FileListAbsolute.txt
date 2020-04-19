@@ -1,0 +1,38 @@
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe.config
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.exe
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Image Segmentation.pdb
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.UI.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.World.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.GLControl.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\ZedGraph.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.UI.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\Emgu.CV.World.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.pdb
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\OpenTK.GLControl.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\ZedGraph.xml
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csprojAssemblyReference.cache
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image_Segmentation.Form1.resources
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image_Segmentation.Properties.Resources.resources
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.GenerateResource.cache
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.csproj.CopyComplete
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.exe
+C:\Users\57120042\source\repos\Image Segmentation\Image Segmentation\obj\Debug\Image Segmentation.pdb
